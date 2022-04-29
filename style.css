@@ -1,0 +1,69 @@
+h1
+{
+	font-size: 20px;
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font: optional;
+	font-weight: 200;
+}
+span
+{
+	font-size: 20px;
+	color: rgb(245, 8, 8);
+}
+body
+{
+	background-image: linear-gradient(to bottom, #ffffff, #c7fff8, #00a2ff, #00ffea, #ffffff);
+}
+p
+{
+	font-size: 30px;
+	font-weight: 100px;
+	color: rgb(255, 0, 0)
+}
+.btn-success
+{
+	font-weight: bolder;
+	font-size: 18px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: white;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b
+{
+	color: purple;
+}
+#io
+{
+	color:rgb(245, 8, 8)
+}
+#jk
+{
+	margin-left: 50px;
+	font-size: 18px;
+}
+
+.maker
+{
+	font-family: 'Tapestry', cursive;
+	font-size:x-large;
+	bottom: 0px;
+	text-transform: uppercase;
+	margin-left: 80vmin;
+	position: fixed;
+	color:rgb(0, 255, 68);
+}
